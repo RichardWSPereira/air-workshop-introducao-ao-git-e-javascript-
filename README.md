@@ -9,7 +9,7 @@ Workshop prático de introdução ao Git, usando pequenos exemplos em JavaScript
 - VS code ou Linha de Comando com suporte a terminal Bash (Git Bash ou Linux nativo)
 - Conta no GitHub com autenticação HTTPS (token) ou SSH configurada
 
-## Como começa
+## Como começar
 
 1. Faça o **E1** em um repositório local, fora deste: [exercicios/exercicios.md](exercicios/exercicios.md#e1-primeiros-comandos-em-um-repositório-local).
 2. Clique em **Use this template** > **Create a new repository** e crie o seu repositório.
